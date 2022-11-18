@@ -56,7 +56,7 @@ global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ Bobby " r2m " ____ᥫ 💞 ]' //
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94704296532'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
